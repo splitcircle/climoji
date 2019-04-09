@@ -1,7 +1,9 @@
 # climoji
 
-pronounced CLEE-moji, inspired by this [tweet](https://twitter.com/dabit3/status/1114338923734421504)
 a cli emoji finder for commit messaages and other uses
+
+
+pronounced CLEE-moji, inspired by this [tweet](https://twitter.com/dabit3/status/1114338923734421504)
 
 ## why?
 
