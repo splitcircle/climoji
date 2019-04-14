@@ -8,5 +8,5 @@ const program = require('commander')
 console.log('TEST')
 
 // TODO: read in emoji key. (maybe xml or YAML? not sure)
-// TODO: list selectiont@gitlab.pennmutual.com:AnnuityNewBusiness/annuitynb-ui.git
+// TODO: list selections
 
