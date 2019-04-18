@@ -1,6 +1,6 @@
 # climoji
 
-a cli emoji finder for commit messaages and other uses
+a cli emoji finder for commit messaages
 
 
 pronounced CLEE-moji, inspired by this [tweet](https://twitter.com/dabit3/status/1114338923734421504)
